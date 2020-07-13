@@ -1,3 +1,3 @@
 # MyProjects
 
-A repos exclusive for my Data Science Projects.
+A repos exclusively for my Data Science Projects.
