@@ -1,0 +1,2 @@
+Loan Prediction Project link:
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/7b7e10a5-7dc9-4ea6-a018-b2783dbb2d2f/view?access_token=0e63d6738cb0b653fc0952b3a60111bba94e79d625427cb997684db1a2a00337
